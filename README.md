@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tankalxat34
 - 👀 I’m interested in games, movies and programming languages. I have normal level Python and basis skills C++.
-- 🌱 I’m currently studying in RANEPA university on Economic fakultet but I'm also living dream to become a programmer.
+- 🌱 I’m currently studying in university and I'm also living dream to become a programmer.
 - 📫 My contacts: 
   - email: tankalxat34@gmail.ru
 
