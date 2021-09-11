@@ -1,4 +1,4 @@
-[![PyPI](https://sun9-73.userapi.com/impg/-S5-GCzQCnShHeaEtbjlW3q87l60r-UVBaoN6w/bGj_vgnJCEM.jpg?size=960x286&quality=96&sign=e0971834cb84b407bd93987ec7774c3f&type=album)](mailto:tankalxat34@gmail.com)
+[![tankalxat34](https://psv4.userapi.com/c505536/u340889394/docs/d5/f44e65d9a9f9/ascii_name.png?extra=0zKb587Lyyie_97VnGBOabJjtTsK3wVaGcSHUUDvxadrvy5-YFqW2gxuEwGmqCvNhVEzp-GrGcV0fjue1JY-QfJofpGEnOkGMUVszeG5nT_9zJBwwQJTQRDl0TlDLNzUb_mtxwz5kJztplmCfSCNGfmT)](mailto:tankalxat34@gmail.com)
 
 - 👋 Hi, I’m @tankalxat34
 - 👀 I’m interested in games, movies and programming languages. I have normal level Python and basis skills C++.
