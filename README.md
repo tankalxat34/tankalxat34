@@ -1,8 +1,8 @@
-[![tankalxat34](https://psv4.userapi.com/c505536/u340889394/docs/d5/f44e65d9a9f9/ascii_name.png?extra=0zKb587Lyyie_97VnGBOabJjtTsK3wVaGcSHUUDvxadrvy5-YFqW2gxuEwGmqCvNhVEzp-GrGcV0fjue1JY-QfJofpGEnOkGMUVszeG5nT_9zJBwwQJTQRDl0TlDLNzUb_mtxwz5kJztplmCfSCNGfmT)](mailto:tankalxat34@gmail.com?subject=From%20GitHub%20user)
-
 ![tankalxat34](https://img.shields.io/badge/name-Alexander%20Podstrechnyy-880747?logo=mail.ru)
 ![tankalxat34](https://img.shields.io/badge/love%20language-python-880747?logo=github)
 [![tankalxat34](https://img.shields.io/badge/email-tankalxat34@gmail.com-880747?logo=gmail)](mailto:tankalxat34@gmail.com?subject=From%20GitHub%20user)
+[![tankalxat34](https://img.shields.io/badge/youtube-ταŋᶄắḽჯãṫ34-880747?logo=youtube)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
+[![tankalxat34](https://img.shields.io/badge/vkontakte-@tankalxat34-880747?logo=vk)](https://www.vk.com/tankalxat34)
 
 - 👋 Hi, I’m @tankalxat34
 - 👀 I’m interested in games, movies and programming languages. I have normal level Python and basis skills C++.
