@@ -3,6 +3,7 @@
 [![tankalxat34](https://img.shields.io/badge/email-tankalxat34@gmail.com-880747?logo=gmail)](mailto:tankalxat34@gmail.com?subject=From%20GitHub%20user)
 [![tankalxat34](https://img.shields.io/badge/youtube-ταŋᶄắḽჯãṫ34-880747?logo=youtube)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
 [![tankalxat34](https://img.shields.io/badge/vkontakte-@tankalxat34-880747?logo=vk)](https://www.vk.com/tankalxat34)
+[![tankalxat34](https://img.shields.io/badge/discord-tankalxat34%20Official%20Community-880747?logo=discord)](https://discord.gg/9xnA6swyW7)
 
 - 👋 Hi, I’m @tankalxat34
 - 👀 I’m interested in games, movies and programming languages. I have normal level Python and basis skills C++.
@@ -13,4 +14,6 @@
 <!---
 tankalxat34/tankalxat34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+https://discord.gg/9xnA6swyW7
 --->
