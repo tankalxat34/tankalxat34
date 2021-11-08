@@ -1,4 +1,4 @@
-![tankalxat34](https://img.shields.io/badge/name-Alexander%20Podstrechnyy-880747?logo=mail.ru)
+![tankalxat34](https://img.shields.io/badge/nickname-tankalxat34-880747?logo=mail.ru)
 ![tankalxat34](https://img.shields.io/badge/love%20language-python-880747?logo=github)
 [![tankalxat34](https://img.shields.io/badge/email-tankalxat34@gmail.com-880747?logo=gmail)](mailto:tankalxat34@gmail.com?subject=From%20GitHub%20user)
 [![tankalxat34](https://img.shields.io/badge/youtube-ταŋᶄắḽჯãṫ34-880747?logo=youtube)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
