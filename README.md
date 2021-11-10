@@ -11,6 +11,9 @@
 - 📫 My contacts: 
   - email: tankalxat34@gmail.ru
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34)](https://github.com/tankalxat34)
+
+
 <!---
 tankalxat34/tankalxat34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
