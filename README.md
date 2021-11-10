@@ -5,7 +5,7 @@
 [![tankalxat34](https://img.shields.io/badge/vkontakte-@tankalxat34-880747?logo=vk)](https://www.vk.com/tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/discord-tankalxat34%20Official%20Community-880747?logo=discord)](https://discord.gg/9xnA6swyW7)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34)](https://github.com/tankalxat34)
+<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34)](https://github.com/tankalxat34)--->
 
 - 👋 Hi, I’m @tankalxat34
 - 👀 I’m interested in games, movies and programming languages. I have normal level Python and basis skills C++.
