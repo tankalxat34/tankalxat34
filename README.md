@@ -13,7 +13,7 @@
 # Information
 
 - 👋 Hi, I’m @tankalxat34
-- 👀 I’m interested in games, movies and programming languages. I have normal level Python and basis skills C++.
+- 👀 I’m interested in games, guitar and programming languages. I have normal level Python and basis skills C++.
 - 🌱 I’m currently studying in university and I'm also living dream to become a programmer.
 - 📫 My contacts: 
   - email: tankalxat34@gmail.ru
