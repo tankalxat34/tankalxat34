@@ -17,7 +17,7 @@
 - 🌱 I’m currently studying in university and I'm also living dream to become a programmer.
 - 📫 My contacts: 
   - email: tankalxat34@gmail.ru
-  - Telegram: @tankalxat34
+  - Telegram: [@tankalxat34](https://t.me/tankalxat34)
 
 <!---
 tankalxat34/tankalxat34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
