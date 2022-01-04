@@ -5,6 +5,7 @@
 [![tankalxat34](https://img.shields.io/badge/youtube-ταŋᶄắḽჯãṫ34-880747?logo=youtube)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
 [![tankalxat34](https://img.shields.io/badge/vkontakte-@tankalxat34-880747?logo=vk)](https://www.vk.com/tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/discord-tankalxat34%20Official%20Community-880747?logo=discord)](https://discord.gg/9xnA6swyW7)
+[![tankalxat34](https://img.shields.io/badge/telegram-@tankalxat34-880747?logo=telegram)](https://t.me/tankalxat34)
 
 # Statistic data
 
