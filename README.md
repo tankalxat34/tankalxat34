@@ -9,7 +9,8 @@
 
 # Statistic data
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34)](https://github.com/tankalxat34)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34)](https://github.com/tankalxat34) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=tokyonight)
 
 # Information
 
