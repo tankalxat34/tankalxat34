@@ -10,7 +10,6 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm l
 [![tankalxat34](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/-PyPi-00578A?logo=pypi&logoColor=FFD800)](https://pypi.org/user/tankalxat34/)
-[![tankalxat34](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tankalxat34)
 
 
 My skills:
