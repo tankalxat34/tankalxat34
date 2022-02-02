@@ -1,29 +1,35 @@
-# Badges 
-![tankalxat34](https://img.shields.io/badge/nickname-tankalxat34-880747?logo=mail.ru)
-![tankalxat34](https://img.shields.io/badge/love%20language-python-880747?logo=github)
-[![tankalxat34](https://img.shields.io/badge/email-tankalxat34@gmail.com-880747?logo=gmail)](mailto:tankalxat34@gmail.com?subject=From%20GitHub%20user)
-[![tankalxat34](https://img.shields.io/badge/youtube-ταŋᶄắḽჯãṫ34-880747?logo=youtube)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
-[![tankalxat34](https://img.shields.io/badge/vkontakte-@tankalxat34-880747?logo=vk)](https://www.vk.com/tankalxat34)
-[![tankalxat34](https://img.shields.io/badge/discord-tankalxat34%20Official%20Community-880747?logo=discord)](https://discord.gg/9xnA6swyW7)
-[![tankalxat34](https://img.shields.io/badge/telegram-@tankalxat34-880747?logo=telegram)](https://t.me/tankalxat34)
+# Hi there👋
+I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm living in Moscow and studying in university on economic facultat but it doesn't conflict my dream to become a programmer. 
 
-# Statistic data
+[![tankalxat34](https://img.shields.io/badge/-Telegram-blue?logo=telegram&style=flat)](https://t.me/tankalxat34)
+[![tankalxat34](https://img.shields.io/badge/-YouTube-f00?logo=youtube&style=flat)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
+[![tankalxat34](https://img.shields.io/badge/-ВКонтакте-0069EF?logo=vk&style=flat)](https://vk.com/tankalxat34)
+[![tankalxat34](https://img.shields.io/badge/-Discord-7289DA?logo=discord&style=flat&logoColor=white)](https://discord.gg/9xnA6swyW7)
+[![tankalxat34](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat&logoColor=white)](mailto:tankalxat34@gmail.com?subject=From%20GitHub%20user)
+[![tankalxat34](https://img.shields.io/badge/-DonationAlerts-F57507?logo=bitcoin&logoColor=white)](https://www.donationalerts.com/r/tankalxat34)
+[![tankalxat34](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tankalxat34)
+[![tankalxat34](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tankalxat34)
+[![tankalxat34](https://img.shields.io/badge/-PyPi-00578A?logo=pypi&logoColor=FFD800)](https://pypi.org/user/tankalxat34/)
+[![tankalxat34](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tankalxat34)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34)](https://github.com/tankalxat34) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=tokyonight)
 
-# Information
+My skills:
 
-- 👋 Hi, I’m @tankalxat34
-- 👀 I’m interested in games, guitar and programming languages. I have normal level Python and basis skills C++.
-- 🌱 I’m currently studying in university and I'm also living dream to become a programmer.
-- 📫 My contacts: 
-  - email: tankalxat34@gmail.ru
-  - Telegram: [@tankalxat34](https://t.me/tankalxat34)
+> ℹNormal level of Python and basic of C++ and Microsoft Excel VBA
 
-<!---
-tankalxat34/tankalxat34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![skill](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![skill](https://img.shields.io/badge/Excel%20VBA-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
 
-https://discord.gg/9xnA6swyW7
---->
+My hobbies include:
+- 💻Programming on Python, C++ and VBA
+- 💎Computer games
+- 📚Learning something new in IT-world
+- 🎸Classic guitar
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)
+
+## Recommend to see
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tankalxat34&repo=UploadgramPyAPI&theme=material-palenight&show_owner)](https://github.com/tankalxat34/UploadgramPyAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tankalxat34&repo=BattleCity20.20&theme=material-palenight&show_owner)](https://github.com/tankalxat34/BattleCity20.20)
