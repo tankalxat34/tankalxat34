@@ -28,8 +28,3 @@ My hobbies include:
 - 🎸Classic guitar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)
-
-## Recommend to see
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tankalxat34&repo=UploadgramPyAPI&theme=material-palenight&show_owner)](https://github.com/tankalxat34/UploadgramPyAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tankalxat34&repo=BattleCity20.20&theme=material-palenight&show_owner)](https://github.com/tankalxat34/BattleCity20.20)
