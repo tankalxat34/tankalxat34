@@ -27,6 +27,6 @@ My hobbies include:
 - 📚Learning something new in IT-world
 - 🎸Classic guitar
 
-![](https://komarev.com/ghpvc/?username=tankalxat34&color=green)
+![](https://komarev.com/ghpvc/?username=tankalxat34&color=D470FF)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)
