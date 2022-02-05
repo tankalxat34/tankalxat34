@@ -13,7 +13,6 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm l
 [![tankalxat34](https://img.shields.io/badge/-Twitter-1D9BF0?logo=twitter&logoColor=ffffff)](https://twitter.com/tankalxat34/)
 [![tankalxat34](https://img.shields.io/badge/-CodersRank-67A4AC?logo=codersrank&logoColor=FFD800)](https://profile.codersrank.io/user/tankalxat34/)
 
-
 My skills:
 
 > ℹNormal level of Python and basic of C++ and Microsoft Excel VBA
@@ -27,5 +26,7 @@ My hobbies include:
 - 💎Computer games
 - 📚Learning something new in IT-world
 - 🎸Classic guitar
+
+![](https://komarev.com/ghpvc/?username=tankalxat34&color=green)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)
