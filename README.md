@@ -1,5 +1,5 @@
 # Hi there👋
-I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm living in Moscow and studying in university on economic facultat but it doesn't conflict my dream to become a programmer. 
+I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm studying in university on economic facultat but it doesn't conflict my dream to become a programmer. 
 
 [![tankalxat34](https://img.shields.io/badge/-Telegram-blue?logo=telegram&style=flat)](https://t.me/tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/-YouTube-f00?logo=youtube&style=flat)](https://www.youtube.com/channel/UCgkap-jXJR6cWj3S2VdBDkQ)
