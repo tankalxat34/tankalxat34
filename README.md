@@ -13,7 +13,7 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm s
 [![tankalxat34](https://img.shields.io/badge/-Twitter-1D9BF0?logo=twitter&logoColor=ffffff)](https://twitter.com/tankalxat34/)
 [![tankalxat34](https://img.shields.io/badge/-CodersRank-67A4AC?logo=codersrank&logoColor=FFD800)](https://profile.codersrank.io/user/tankalxat34/)
 
-[![tankalxat34](https://img.shields.io/badge/-Telegram%20Channel🇷🇺-blue?logo=telegram&style=for-the-badge)](https://t.me/tankalxat34_official)
+[![tankalxat34](https://img.shields.io/badge/-Telegram%20Channel-blue?logo=telegram&style=for-the-badge)](https://t.me/tankalxat34_official)
 
 My skills:
 
