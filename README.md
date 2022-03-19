@@ -17,15 +17,15 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm s
 
 My skills:
 
-![skill](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![skill](https://img.shields.io/badge/MS%20Excel%20VBA-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
-<img alt=".net" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pycharm-42AF1A?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%202019-813DBE?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-AF3B51?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MS%20Office%20-DD4B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/-windows_7/10/11-2BA7E8?style=for-the-badge&logo=windows&logoColor=white"/>
+![skill](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![skill](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![skill](https://img.shields.io/badge/MS%20Excel%20VBA-107C41?logo=microsoft&logoColor=white)
+<img alt=".net" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-42AF1A?logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%202019-813DBE?logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-AF3B51?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MS%20Office%20-DD4B01?logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-windows_7/10/11-2BA7E8?logo=windows&logoColor=white"/>
 
 My hobbies include:
 - 💻Programming on Python, C++ and VBA
