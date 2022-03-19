@@ -17,11 +17,13 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm s
 
 My skills:
 
-> ℹNormal level of Python and basic of C++ and Microsoft Excel VBA
-
 ![skill](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![skill](https://img.shields.io/badge/Excel%20VBA-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
+![skill](https://img.shields.io/badge/MS%20Excel%20VBA-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
+<img alt=".net" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-42AF1A?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%202019-813DBE?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-AF3B51?style=for-the-badge&logo=git&logoColor=white"/>
 
 My hobbies include:
 - 💻Programming on Python, C++ and VBA
@@ -30,5 +32,7 @@ My hobbies include:
 - 🎸Classic guitar
 
 ![](https://komarev.com/ghpvc/?username=tankalxat34&color=D470FF)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=tankalxat34&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)
