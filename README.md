@@ -26,7 +26,7 @@ My skills:
 <img src="https://img.shields.io/badge/Visual%20Studio%202019-813DBE?logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-AF3B51?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MS%20Office%20-DD4B01?logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/-windows_7/10/11-2BA7E8?logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Windows_7/10/11-2BA7E8?logo=windows&logoColor=white"/>
 
 My hobbies include:
 - 💻Programming on Python, C++, Visual Basic and VBA
