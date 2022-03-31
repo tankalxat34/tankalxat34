@@ -12,9 +12,13 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm s
 [![tankalxat34](https://img.shields.io/badge/-Twitter-1D9BF0?logo=twitter&logoColor=ffffff)](https://twitter.com/tankalxat34/)
 [![tankalxat34](https://img.shields.io/badge/-CodersRank-67A4AC?logo=codersrank&logoColor=FFD800)](https://profile.codersrank.io/user/tankalxat34/)
 
-[![tankalxat34](https://img.shields.io/badge/-Telegram%20Channel-blue?logo=telegram&style=for-the-badge)](https://t.me/tankalxat34_official)
+## <img src="https://github.com/tankalxat34/tankalxat34/blob/main/readme_content/telegram.svg" width="22px"/> Telegram links
+[![tankalxat34](https://img.shields.io/badge/-Telegram%20Channel-blue?logo=telegram)](https://t.me/tankalxat34_official)
+[![tankalxat34](https://img.shields.io/badge/-EN_Community-blue?logo=telegram)](https://t.me/tankalxat34_life_en)
+[![tankalxat34](https://img.shields.io/badge/-RU_Community-blue?logo=telegram)](https://t.me/tankalxat34_life_ru)
 
-My skills:
+## <img src="https://github.com/tankalxat34/tankalxat34/blob/main/readme_content/skill.svg" width="22px"/> Skills and hobbies
+My skills include:
 
 ![skill](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![skill](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
@@ -22,7 +26,7 @@ My skills:
 ![skill](https://img.shields.io/badge/MS%20Excel%20VBA-107C41?logo=microsoft&logoColor=white)
 <img alt=".net" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-42AF1A?logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%202019-813DBE?logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%202019/2022-813DBE?logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-AF3B51?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MS%20Office%20-DD4B01?logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Windows_7/10/11-2BA7E8?logo=windows&logoColor=white"/>
