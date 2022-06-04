@@ -12,10 +12,10 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm s
 [![tankalxat34](https://img.shields.io/badge/-Twitter-1D9BF0?logo=twitter&logoColor=ffffff)](https://twitter.com/tankalxat34/)
 [![tankalxat34](https://img.shields.io/badge/-CodersRank-67A4AC?logo=codersrank&logoColor=FFD800)](https://profile.codersrank.io/user/tankalxat34/)
 
-## <img src="https://github.com/tankalxat34/tankalxat34/blob/main/readme_content/telegram.svg" width="22px"/> Telegram links
+<!-- ## <img src="https://github.com/tankalxat34/tankalxat34/blob/main/readme_content/telegram.svg" width="22px"/> Telegram links
 [![tankalxat34](https://img.shields.io/badge/-Telegram%20Channel-blue?logo=telegram)](https://t.me/tankalxat34_official)
 [![tankalxat34](https://img.shields.io/badge/-EN_Community-blue?logo=telegram)](https://t.me/tankalxat34_life_en)
-[![tankalxat34](https://img.shields.io/badge/-RU_Community-blue?logo=telegram)](https://t.me/tankalxat34_life_ru)
+[![tankalxat34](https://img.shields.io/badge/-RU_Community-blue?logo=telegram)](https://t.me/tankalxat34_life_ru) -->
 
 ## <img src="https://github.com/tankalxat34/tankalxat34/blob/main/readme_content/skill.svg" width="22px"/> Skills and hobbies
 My skills include:
