@@ -41,5 +41,5 @@ My hobbies include:
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=tankalxat34&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankalxat34&layout=compact&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=D470FF)](https://github.com/anuraghazra/github-readme-stats)
