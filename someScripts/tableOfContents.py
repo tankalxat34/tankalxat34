@@ -1,3 +1,5 @@
+import pyperclip
+
 f = open("README.md", "r", encoding="utf-8")
 file = f.readlines()
 f.close()
@@ -24,6 +26,8 @@ for i in range(len(file)):
             summator[titleLine[0]] = 0
             summator[titleLine[0]] += 1
         
-        titleList += "\t" * (len(titleLine[0]) - 1) + f"{summator[titleLine[0]]}. [{' '.join(titleLine[1::]).replace(')','')}](#{' '.join(titleLine[1::]).replace(')','')}])\n"
+        titleList += "    " * (len(titleLine[0]) - 1) + f"{summator[titleLine[0]]}. [{' '.join(titleLine[1::]).replace(')','')}](#{' '.join(titleLine[1::]).replace(')','').replace('(','').replace(' ', '-')}])\n"
 
 print(titleList)
+
+pyperclip.copy(titleList)
