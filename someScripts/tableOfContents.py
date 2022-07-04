@@ -26,7 +26,7 @@ for i in range(len(file)):
             summator[titleLine[0]] = 0
             summator[titleLine[0]] += 1
         
-        titleList += "    " * (len(titleLine[0]) - 1) + f"{summator[titleLine[0]]}. [{' '.join(titleLine[1::]).replace(')','')}](#{' '.join(titleLine[1::]).replace(')','').replace('(','').replace(' ', '-')}])\n"
+        titleList += "    " * (len(titleLine[0]) - 1) + f"{summator[titleLine[0]]}. [{' '.join(titleLine[1::]).replace(')','').replace('(','')}](#{' '.join(titleLine[1::]).replace(')','').replace('(','').replace(' ', '-')})\n"
 
 print(titleList)
 
