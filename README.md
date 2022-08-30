@@ -9,6 +9,7 @@ I'm Alexander! On the internet I am better known as ✨**tankalxat34**✨. I'm s
 [![tankalxat34](https://img.shields.io/badge/-DonationAlerts-F57507?logo=bitcoin&logoColor=white)](https://www.donationalerts.com/r/tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tankalxat34)
 [![tankalxat34](https://img.shields.io/badge/-PyPi-00578A?logo=pypi&logoColor=FFD800)](https://pypi.org/user/tankalxat34/)
+[![tankalxat34](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/tankalxat34/)
 [![tankalxat34](https://img.shields.io/badge/-Twitter-1D9BF0?logo=twitter&logoColor=ffffff)](https://twitter.com/tankalxat34/)
 [![tankalxat34](https://img.shields.io/badge/-CodersRank-67A4AC?logo=codersrank&logoColor=FFD800)](https://profile.codersrank.io/user/tankalxat34/)
 
