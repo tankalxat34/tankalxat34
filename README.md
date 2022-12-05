@@ -1,4 +1,4 @@
-## Hi there 👋, I'm <a href="mailto:tankalxat34@gmail.com" target="_blank">Alexander</a>!
+## Hi there 👋, I'm <a href="https://vk.com/tankalxat34" target="_blank">Alexander</a>!
 <!-- <br /> -->
 
 <a href="https://www.linkedin.com/in/tankalxat34/" target="_blank">
@@ -78,6 +78,8 @@ I am a Python Data Analyst and a novice Fullstack Developer.
 ![](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=878787&title_color=E0E0E0)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tankalxat34&layout=compact&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=E0E0E0)
+
+<details><summary><b>Achievements</b></summary><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tankalxat34&theme=darkhub"></a></details>
 
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tankalxat34&branding=false&show-avatar=false&style=--header-bg-color:%230D1117;--bg-color:%234C4848;--border-radius:%2310;--badge-text-color:%23000000" width="500px" style="border-radius: 20px; border: 1px #e0e0e0;"> -->
 
