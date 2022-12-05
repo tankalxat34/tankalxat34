@@ -1,4 +1,4 @@
-## Hi there 👋, I'm <a href="https://vk.com/tankalxat34" target="_blank">Alexander</a>!
+## Hi there 👋, I'm <a href="mailto:tankalxat34@gmail.com" target="_blank">Alexander</a>!
 <!-- <br /> -->
 
 <a href="https://www.linkedin.com/in/tankalxat34/" target="_blank">
