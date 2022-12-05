@@ -79,7 +79,7 @@ I am a Python Data Analyst and a novice Fullstack Developer.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tankalxat34&layout=compact&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=E0E0E0)
 
-<details><summary><b>Achievements</b></summary><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tankalxat34&theme=darkhub"></a></details>
+<details><summary><b>Achievements</b></summary><img src="https://github-profile-trophy.vercel.app/?username=tankalxat34&theme=darkhub"></details>
 
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tankalxat34&branding=false&show-avatar=false&style=--header-bg-color:%230D1117;--bg-color:%234C4848;--border-radius:%2310;--badge-text-color:%23000000" width="500px" style="border-radius: 20px; border: 1px #e0e0e0;"> -->
 
