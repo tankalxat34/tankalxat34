@@ -1,3 +1,7 @@
+"""
+Скрипт создает оглавление для markdown файла
+"""
+
 import pyperclip
 
 f = open("README.md", "r", encoding="utf-8")
