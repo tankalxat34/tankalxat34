@@ -49,6 +49,7 @@ I am a Python Data Analyst and a novice Fullstack Developer.
 <h3>🛠️ Languages and Tools</h3>
 
 ![](https://img.shields.io/badge/-Python-161616?logo=python&style=flat-square)
+![](https://img.shields.io/badge/-Django-161616?logo=django&style=flat-square)
 ![](https://img.shields.io/badge/-Jupyter%20Notebook-161616?style=flat-square&logo=jupyter)
 ![](https://img.shields.io/badge/-Anaconda-161616?style=flat-square&logo=anaconda)
 ![](https://img.shields.io/badge/-Poetry-161616?style=flat-square&logo=poetry)
