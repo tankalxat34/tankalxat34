@@ -74,7 +74,7 @@ I am a Python Data Analyst and a novice Fullstack Developer.
 
 <h3>📈 Statistic 📈</h3>
 
-![](https://komarev.com/ghpvc/?username=tankalxat34&color=0D1117&label=Visitors&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tankalxat34&color=0D1117&label=Visitors&style=flat-square) <a href="https://www.codewars.com/users/tankalxat34"><img width=120px src="https://www.codewars.com/users/tankalxat34/badges/micro?logo=true"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=tankalxat34&show_icons=true&theme=github_dark&icon_color=878787&title_color=E0E0E0)
 
