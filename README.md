@@ -33,12 +33,13 @@
 
 <br/>
 
-I am a Python Data Analyst and a novice Fullstack Developer.
+I am a Python Developer, Python Data Analyst and a novice Fullstack Developer.
 
 
 <h3>✨ Quick Facts</h3>
 
 - <a href="https://ranepa.ru/" target="_blank"><img src="https://www.ranepa.ru/_global/media/favicon/favicon.ico" width="15px"> RANEPA</a> student;
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=15px> Python programmer;
 - 🕹 Good [Tanks Blitz](https://tanksblitz.ru/) player;
 - 📦 Modmaker for [World of Tanks](https://wgmods.net/search/?owner=40726);
 - 🎿 Hobbies other than coding: playing computer games, playing guitar and piano, origami, history;
