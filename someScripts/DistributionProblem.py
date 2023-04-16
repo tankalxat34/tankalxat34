@@ -91,7 +91,7 @@ for w in Warehouses:
         f"Sum_of_Products_out_of_Warehouse_{w}",
     )
 
-# Минимальные ограничения спроса добавляются к prob для каждого узла спроса (бар)
+# Минимальные ограничения спроса добавляются к prob для каждого узла спроса (покупателя)
 for b in Customers:
     prob += (
         lpSum([vars[w][b] for w in Warehouses]) >= demand[b],
