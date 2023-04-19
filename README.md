@@ -38,7 +38,6 @@ I am a Python Developer, Python Data Analyst and a novice Fullstack Developer.
 
 <h3>✨ Quick Facts</h3>
 
-- <a href="https://ranepa.ru/en" target="_blank"><img src="https://www.ranepa.ru/_global/media/favicon/favicon.ico" width="15px"> RANEPA</a> student;
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=15px> Python programmer;
 - 📦 Modmaker for [World of Tanks](https://wgmods.net/search/?owner=40726);
 - 🎿 Hobbies other than coding: playing computer games, playing guitar and piano, origami, history;
