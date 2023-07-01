@@ -33,15 +33,15 @@
 
 <br/>
 
-I am a Python Developer, Python Data Analyst and a novice Fullstack Developer.
+I am a Python Backend Developer 👨‍💻 and novice Data Analysist 👨‍🎓
 
 
 <h3>✨ Quick Facts</h3>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=15px> Python programmer;
+- 👨‍🎓 Student;
 - 📦 Modmaker for [World of Tanks](https://wgmods.net/search/?owner=40726);
-- 🎿 Hobbies other than coding: playing computer games, playing guitar and piano, origami, history;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tankalxat34) or [Telegram](https://tankalxat34.t.me/);
+- 🎿 Hobbies other than coding: computer games, science, guitar, piano, origami, history;
+- 📫 How to reach me: [Telegram](https://tankalxat34.t.me/);
 
 
 
@@ -49,6 +49,8 @@ I am a Python Developer, Python Data Analyst and a novice Fullstack Developer.
 
 ![](https://img.shields.io/badge/-Python-161616?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/-Flask-161616?logo=flask&style=flat-square)
+![](https://img.shields.io/badge/-PostgreSQL-161616?logo=PostgreSQL&style=flat-square)
+![](https://img.shields.io/badge/-SQLite-161616?logo=SQLite&style=flat-square)
 ![](https://img.shields.io/badge/-Django-161616?logo=django&style=flat-square)
 ![](https://img.shields.io/badge/-Jupyter%20Notebook-161616?style=flat-square&logo=jupyter)
 ![](https://img.shields.io/badge/-Anaconda-161616?style=flat-square&logo=anaconda)
@@ -68,6 +70,7 @@ I am a Python Developer, Python Data Analyst and a novice Fullstack Developer.
 ![](https://img.shields.io/badge/-Git-161616?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github)
 ![](https://img.shields.io/badge/-Heroku-161616?style=flat-square&logo=heroku)
+![](https://img.shields.io/badge/-Vercel-161616?style=flat-square&logo=vercel)
 ![](https://img.shields.io/badge/-Visual%20Studio-161616?style=flat-square&logo=visualstudiocode)
 
 <div align=center>
@@ -78,11 +81,4 @@ I am a Python Developer, Python Data Analyst and a novice Fullstack Developer.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tankalxat34&layout=compact&show_icons=true&theme=github_dark&icon_color=D470FF&title_color=E0E0E0)
 
-<!-- <details><summary><b>Achievements</b></summary><img src="https://github-profile-trophy.vercel.app/?username=tankalxat34&theme=darkhub"></details> -->
-
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tankalxat34&branding=false&show-avatar=false&style=--header-bg-color:%230D1117;--bg-color:%234C4848;--border-radius:%2310;--badge-text-color:%23000000" width="500px" style="border-radius: 20px; border: 1px #e0e0e0;"> -->
-
 </div>
-
-
-<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=tankalxat34&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) --)
