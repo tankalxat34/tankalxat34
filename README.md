@@ -33,7 +33,7 @@
 
 <br/>
 
-I am a Python Backend Developer 👨‍💻 and novice Data Analysist 👨‍🎓
+I am a Frontend Developer 👨‍💻 Also a interested in Python Backend Development💻
 
 
 <h3>✨ Quick Facts</h3>
