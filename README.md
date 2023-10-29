@@ -42,7 +42,7 @@ I am a Frontend Developer 👨‍💻 Also a interested in Python Backend Develo
 - 📦 Modmaker for [World of Tanks](https://wgmods.net/search/?owner=40726);
 - 🎿 Hobbies other than coding: computer games, science, guitar, piano, origami, history;
 - 📫 How to reach me: [Telegram](https://tankalxat34.t.me/);
-
+- <img align="left" alt="eth" width="18px" src="https://cdn.simpleicons.org/ethereum/e1e1e1" /> ETH: `0x4fd5FBdEE5a1F544d7A4Df1DddC0C9efAC77B80B`
 
 
 <h3>🛠️ Languages and Tools</h3>
@@ -64,6 +64,7 @@ I am a Frontend Developer 👨‍💻 Also a interested in Python Backend Develo
 ![](https://img.shields.io/badge/-HTML5-161616?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-161616?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-TypeScript-161616?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-NodeJS-161616?style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/-ExpressJS-161616?style=flat-square&logo=express)
 ![](https://img.shields.io/badge/-EJS-161616?style=flat-square&logo=ejs)
