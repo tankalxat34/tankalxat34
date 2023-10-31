@@ -40,10 +40,8 @@ I am a Frontend Developer 👨‍💻 Also a interested in Python Backend Develo
 
 - 👨‍🎓 Student;
 - 📦 Modmaker for [World of Tanks](https://wgmods.net/search/?owner=40726);
-- 🎿 Hobbies other than coding: computer games, science, guitar, piano, origami, history;
+- 🎿 Hobbies other than coding: design, computer games, science, guitar, piano, origami;
 - 📫 How to reach me: [Telegram](https://tankalxat34.t.me/);
-- <img align="left" alt="eth" width="18px" src="https://cdn.simpleicons.org/ethereum/e1e1e1" /> ETH: `0x4fd5FBdEE5a1F544d7A4Df1DddC0C9efAC77B80B`
-
 
 <h3>🛠️ Languages and Tools</h3>
 
@@ -73,6 +71,15 @@ I am a Frontend Developer 👨‍💻 Also a interested in Python Backend Develo
 ![](https://img.shields.io/badge/-Heroku-161616?style=flat-square&logo=heroku)
 ![](https://img.shields.io/badge/-Vercel-161616?style=flat-square&logo=vercel)
 ![](https://img.shields.io/badge/-Visual%20Studio-161616?style=flat-square&logo=visualstudiocode)
+
+
+<h3>💗 Funding</h3>
+
+<img align="left" alt="eth" width="18px" src="https://cdn.simpleicons.org/ethereum/e1e1e1" /> ETH: `0x4fd5FBdEE5a1F544d7A4Df1DddC0C9efAC77B80B`
+
+<img align="left" alt="TON" width="18px" src="https://raw.githubusercontent.com/tankalxat34/tankalxat34/main/readme_content/ton_symbol.svg" /> TON: `UQDk2HQojbmido7YpcA7M-Q4zRS7zHlWarBDlv11H_nrWTW2`
+
+
 
 <div align=center>
 
