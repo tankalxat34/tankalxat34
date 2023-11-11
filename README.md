@@ -63,6 +63,7 @@ I am a Frontend Developer 👨‍💻 Also a interested in Python Backend Develo
 ![](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-161616?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-161616?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-React-161616?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/-NodeJS-161616?style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/-ExpressJS-161616?style=flat-square&logo=express)
 ![](https://img.shields.io/badge/-EJS-161616?style=flat-square&logo=ejs)
